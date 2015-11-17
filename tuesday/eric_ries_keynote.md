@@ -35,3 +35,7 @@ Eric Ries Keynote
   * BDUF, silos, no accountability, etc.
   * Compares to other companies
   * Try it -- are we doing the same at our company?
+
+* Think about: are you ready for "that moment" when lean is inevitable in the company
+  * Once you reach tipping point, happens very fast
+

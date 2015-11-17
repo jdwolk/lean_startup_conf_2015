@@ -23,3 +23,15 @@ Eric Ries Keynote
 * Management theory
   * All about standardization, eliminating innovation
   * Good for situations of certainty
+
+* Question: What does it mean to be a modern company where innovation is welcomed?
+
+* Strands of thought
+  * Hypergrowth sil. valley startups
+  * Large companies
+  * Governments
+
+* Healthcare.gov
+  * BDUF, silos, no accountability, etc.
+  * Compares to other companies
+  * Try it -- are we doing the same at our company?

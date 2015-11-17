@@ -72,3 +72,9 @@ Don't Listen to Users, Sample Their Experience
       * join groups, join convo
       * present call to participate in research
       * Also, can go on company pages
+  * Tools?
+    * https://www.pacoapp.com/
+  * How to decide on which user to survey?
+    * Guess, have hypothesis, serve them, see what happens. If not audience, learn
+  * Max # of questions for experience sampling study?
+    * Not # of questions -- how much time do you take? 1 minute is optimal

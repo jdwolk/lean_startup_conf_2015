@@ -78,3 +78,7 @@ Don't Listen to Users, Sample Their Experience
     * Guess, have hypothesis, serve them, see what happens. If not audience, learn
   * Max # of questions for experience sampling study?
     * Not # of questions -- how much time do you take? 1 minute is optimal
+  * What is experience sampling good for?
+    * Only for repeated behavior
+    * For rare events -- interviews, observations
+    * Good for answering "what do ppl need (on a regular / recurring basis)

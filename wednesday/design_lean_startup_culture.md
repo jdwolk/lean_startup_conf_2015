@@ -47,10 +47,29 @@ How to Design a Lean Startup Culture
       * Answers the question: Why do we want that culture?
       * Examples: 'reduce risk of innovation, higher return on r&d'
   * Enables / Blockers:
+
     * What drives behavior / outcomes?
       * Gives exercise power
       * Prompts change by identifying outcomes to make desired outcomes easier
         and remove blockers
       * Examples: 'What blocks develpment of lean startup culture today, lack
         of knowledge and training, failure = career suicide, etc'
+
+    * Leadership org. design
+      * Even w/ leadership support and resource allocation, may still lack
+        power to make things happen in large way
+      * Need "CEO": Chief Entrepreneurship Officer, responsible for innovation
+
+    * Culture and process,
+      * Need startup champions
+
+    * Organization design
+      * Skills development -- many ppl in org don't know lean startup
+      * Build rewards systems to encourage experimentation
+      * Innvoation ppl shouldn't be seen as pirates; instead as partners
+
+* 3 things to do to start designing culture
+  * Take 10 mins, map culture. Think about enablers / blockers
+  * Gather team, map and discuss
+  * 1/2 day, design workshop to work from "as-is" to "to-be" culture
 

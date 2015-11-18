@@ -26,3 +26,7 @@ Convo w/ Pivotal folks
   * 1 product, 1 developer, 1 designer
   * When new office opens, team from office stays FOR A YEAR
     * Hires locally, instills process, establishes values
+
+* What is the role of engineering in the lean startup?
+  * Pushing for shipping functionality (see speed / quality above)
+
